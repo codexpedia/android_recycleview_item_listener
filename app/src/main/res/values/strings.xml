@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">RecycleView Click Listener</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="city_keys">
+        <item>newyork</item>
+        <item>tokyo</item>
+        <item>london</item>
+        <item>shanghai</item>
+        <item>beijing</item>
+        <item>moscow</item>
+        <item>hongkong</item>
+        <item>mumbai</item>
+        <item>singapore</item>
+        <item>chicago</item>
+    </string-array>
+
+    <string name="name_newyork">New York</string>
+    <string name="desc_newyork">Yes, the busiest city of the world is none other than the largest American metropolis – the New York city. Jampacked with passing crowds, witnessing continuous hustle and bustle, this is the city that never sleeps. The New York Stock Exchange is the biggest and busiest in the world in terms of both number of transactions as well as market capitalization. It makes this city a symbol of US capitalism, power and sophistication and glamour. Apart from the original population of 8.3 million, the city also attracts 50 million tourists annually who are in to witness some remarkable landmarks like Statue of Liberty, Times Square, UN Headquarters, Broadway theatre, Wall Street, Brooklyn Bridge, Chinatown and the Empirical State building.</string>
+
+    <string name="name_tokyo">Tokyo</string>
+    <string name="desc_tokyo">Tokyo, the Japanese capital is the largest city of the world with a massive population figure of over 35 million. The alpha+ city is one of the 47 prefectures of Japan and is also the world’s largest agglomeration economy. With a purchasing power parity more than that of New York, the city holds largest number (51) of Forbes Global 500 companies. A home to Japanese Imperial family, Tokyo is also a cultural centre, besides being the economic command centre of course (along with London and New York). It is the fussiest contemporary urban centre of the world, thanks to the added load of visitors as Tokyo is brimful of tourist attractions.</string>
+
+    <string name="name_london">London</string>
+    <string name="desc_london">London is the largest and most populous urban area of the European Union land. The leading global city of London has a rich history associated with it and it has a strong influence in the fields of fashion, entertainment, commerce, education and media. Along with New York and Tokyo it is the command centre of the world economy. The stock exchange of London is the busiest and most important in Europe. The transport system of London including the metro and the buses is considered the best in the world. Drawing more number of visitors than any other place, the city airport system is also the busiest in terms of passenger traffic.</string>
+
+    <string name="name_shanghai">Shanghai</string>
+    <string name="desc_shanghai">Now here is the largest metropolis of China in terms of population – housing more than 23 million is people is the landmark city of Shanghai, located in China. Situated along the Yangtze River, Shanghai holds a strategic position and could well be the future financial center of the world, considering the fast growth of Chinese economy (Shanghai is often described as showpiece of China’s booming economy). It is a major administrative, shipping and trading city. This global city also has an extensive transport system of buses and metro, and also the world’s busiest container port.</string>
+
+    <string name="name_beijing">Beijing</string>
+    <string name="desc_beijing">Little surprises about that – the capital of the most populous country of the world had to find a place in the list. The old magnetic city is a centre of culture and politics in China with an urban population that stood at a gaping 20,693,000 in 2012. It is the second largest Chinese city by population and also a major hub for railway, national highway, expressway and high speed rail networks. The Beijing airport is the second busiest international airport of the world. The city is known for its history, monuments, walls, art treasures, gardens and temples which earn it millions of tourists annually.</string>
+
+    <string name="name_moscow">Moscow</string>
+    <string name="desc_moscow">The capital city of Moscow, also the northern most megacity of the world, is the cultural, political, scientific and economic center of Russia and Eurasia. This top expensive urban center is the home to a population of 10,500,000 and a top loaded metro system. The Moscow Metro with 188 stations is the lifeline of busy Moscow and most avoid road transport so that they don’t get stuck into an annoying traffic jam. Its historical significance, ancient structures, cultural appeal, architectural wonders, array landmarks, amazing shopping destinations and high end facilities keep attracting more tourists each year.</string>
+
+    <string name="name_hongkong">Hong Kong</string>
+    <string name="desc_hongkong">Hong Kong is an alpha+ city, the fifth most important one after New York, London, Tokyo and Paris. This city is a residence of 7 million people, making it one of the most densely populated regions of the world. It is perhaps the most modern, green and hi-tech city in the whole world. It is known for its deep natural harbor, a major capitalist service economy, free trade, low taxes and is one of the leading trade centers of the world. It also has a modern architecture, highly developed transport system and offers great quality of life to its residents.</string>
+
+    <string name="name_mumbai">Mumbai</string>
+    <string name="desc_mumbai">Mumbai is an Indian metropolitan housing over 20 million people which makes it the most populous city of India and fourth most populous city of the world. Besides that, it is also the richest Indian city having the biggest port in western India and proudly stands as the financial capital of the subcontinent. Every year lakhs of people are migrate to this melting pot of cultures which is well connected by transport systems in order to find a better standard of living. This entertainment and commercial capital of India, also regarded the dream city, accounting for 70% of all economic transactions in India keeps all its inhabitants and visitors on their toes.</string>
+
+    <string name="name_singapore">Singapore</string>
+    <string name="desc_singapore">Singapore, the lion city, is a sovereign city-state with a population of over 5 million. It is a politically stable and safe island nation with some delicious food and harmonious people. The country’s top earner industry is tourism with over 8 million people visiting Singapore annually, followed by shipbuilding. If you wish to see an explosion of urban vibe, you must visit Singapore once. What makes Singapore extremely important and developed is its strategic oceanic location. High-tech developed structures, the busy Singapore airlines, people rushing in and out of buildings, a cosmopolitan atmosphere, and great shops characterize the Singapore city.</string>
+
+    <string name="name_chicago">Chicago</string>
+    <string name="desc_chicago">The third largest city of United States in terms of population, only after New York and Los Angeles, Chicago is a home to more than 2.7 million people belonging to different cultures and ethnicities. It is the economic, educational, cultural and industrial epicenter of the state of America Midwest. The city airport is the second busiest in the entire world and the city is loaded with emigrants and tourists. It has probably the best city skyline, with some tallest towers on the planet and it also bears a variety of monuments, museums, merchant attractions and other places of interests which attract people from all over the world, earning it a place in the top 10 busiest cities list.</string>
+</resources>
